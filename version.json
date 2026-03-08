@@ -1,11 +1,10 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/ValorantTracker/iseedeadpeople/releases/download/v1.0.1/1337Hub.exe",
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/ValorantTracker/iseedeadpeople/releases/download/v1.0.2/1337Hub.exe",
   "changelog": [
-    "Added search bar",
-    "Added silent install toggle",
-    "Added new app badges",
-    "Added auto-update",
-    "Added MOTD popup"
+    "Fixed update pop-up",
+    "Improved pop-up",
+    "Will fix pop-up control bar soon"
+
   ]
 }
