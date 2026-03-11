@@ -1,6 +1,10 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/ValorantTracker/iseedeadpeople/releases/download/v1.0.4/1337Hub.exe",
-  "sha256": "4d2c6dd22eba8c4d1b6eb461542dda2900260ab84f2df71ea88d74ffdc91893c",
-  "changelog": ["Improved UI", "Improved UX", "Added keybind"]
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/ValorantTracker/iseedeadpeople/releases/download/v1.0.5/1337Hub-Win-Setup.exe",
+  "sha256": "e76c96d29bfa52c44e73f27f3bf06f46c1e11c408fa9d46eee1405be7f21db11",
+  "changelog": [
+    "Added Velopack implementation",
+    "Added System Tray",
+    "Added icon"
+  ]
 }
